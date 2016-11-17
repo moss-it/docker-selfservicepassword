@@ -38,6 +38,7 @@ The quickest way to get started is using [docker-compose](https://docs.docker.co
 
 ```bash
 wget https://raw.githubusercontent.com/moss/docker-selfservicepassword/master/docker-compose.yml
+wget https://raw.githubusercontent.com/moss/docker-selfservicepassword/master/.env
 ```
 Start Self Service Password using:
 
