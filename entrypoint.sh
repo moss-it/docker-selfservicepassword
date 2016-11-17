@@ -118,7 +118,7 @@ USE_SMS=${USE_SMS:-false}
 IS_BEHIND_PROXY=${IS_BEHIND_PROXY:-false}
 
 if [[ ${IS_BEHIND_PROXY} == true  ]]; then
-    sed  -i '188s .\{2\}  ' $TEMPLATE_PATH
+    sed  -i '188s .\{1\}  ' $TEMPLATE_PATH
 fi
 
 # Display help messages
