@@ -1,4 +1,4 @@
-#! /bin/sh
+#! /bin/bash
 #
 # entrypoint.sh
 # Copyleft (ɔ) 2016 Thiago Almeida <thiagoalmeidasa@gmail.com>
